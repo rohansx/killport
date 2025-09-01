@@ -1,0 +1,60 @@
+.killport-header {
+    font-weight: bold;
+    color: #fff;
+    padding: 8px 12px;
+}
+
+.killport-loading {
+    font-style: italic;
+    color: #aaa;
+    padding: 8px 12px;
+}
+
+.killport-empty {
+    font-style: italic;
+    color: #999;
+    padding: 8px 12px;
+}
+
+.killport-item {
+    padding: 6px 12px;
+    min-width: 320px;
+}
+
+.killport-process {
+    color: #888;
+    font-size: 0.9em;
+    margin: 0 12px;
+    min-width: 100px;
+}
+
+.killport-button {
+    background-color: transparent;
+    border: none;
+    padding: 6px;
+    margin-left: 8px;
+    border-radius: 4px;
+    transition: all 0.2s ease;
+}
+
+.killport-button:hover {
+    background-color: rgba(255, 100, 100, 0.15);
+}
+
+.killport-button:active {
+    background-color: rgba(255, 100, 100, 0.25);
+}
+
+.killport-icon {
+    icon-size: 16px;
+    color: #e74c3c;
+}
+
+.killport-button:hover .killport-icon {
+    color: #c0392b;
+}
+
+.popup-menu-icon {
+    icon-size: 16px;
+    margin-right: 8px;
+}

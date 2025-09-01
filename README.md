@@ -20,6 +20,7 @@
 - Adjustable verbosity for detailed logging and quiet operation for minimal output.
 - Comprehensive signal support for fine-grained control over the termination signals sent to processes or containers.
 - Cross-platform compatibility: Linux, macOS, and Windows.
+- **NEW**: GNOME Shell extension for graphical port management (see [gnome-extension/](gnome-extension/))
 
 ## Installation
 

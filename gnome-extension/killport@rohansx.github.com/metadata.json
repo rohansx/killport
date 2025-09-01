@@ -1,0 +1,19 @@
+{
+  "name": "KillPort",
+  "description": "List and kill processes on ports with one click using the killport tool",
+  "uuid": "killport@rohansx.github.com",
+  "version": 1,
+  "shell-version": [
+    "40",
+    "41",
+    "42",
+    "43",
+    "44",
+    "45",
+    "46",
+    "47",
+    "48"
+  ],
+  "url": "https://github.com/rohansx/killport",
+  "original-author": "rohansx@github.com"
+}
